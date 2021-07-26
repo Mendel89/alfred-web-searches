@@ -481,3 +481,5 @@ g: GitHub (C#) (best match),https://github.com/search?q={query}+language%3AC%23&
 g: GitHub (C#) (most stars),https://github.com/search?q={query}+language%3AC%23&s=stars&type=Repositories
 g: GitHub (C#) (recent updated),https://github.com/search?q={query}+language%3AC%23&s=updated&type=Repositories
 CoinMarketCap,https://coinmarketcap.com/search/?q={query}
+p: Pubmed ,https://pubmed.ncbi.nlm.nih.gov/search/?{query}
+sc: https://sci-hub.se
